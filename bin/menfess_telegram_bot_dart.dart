@@ -1,4 +1,4 @@
-// ignore_for_file: unnecessary_brace_in_string_interps, non_constant_identifier_names, unused_local_variable, avoid_init_to_null
+// ignore_for_file: unnecessary_brace_in_string_interps, non_constant_identifier_names, unused_local_variable, avoid_init_to_null, depend_on_referenced_packages
 
 import 'dart:convert';
 import 'dart:io';
@@ -9,7 +9,10 @@ import 'package:galaxeus_lib/galaxeus_lib.dart';
 import 'package:path/path.dart' as p;
 
 void main(List<String> arguments) async {
-  String username_channel = "@channel_menfess";
+  String api_id = "";
+  String api_hash = "";
+  String username_channel = "@username_channel";
+
   Directory current_dir = Directory.current;
   String db_bot_api = p.join(current_dir.path, "bot_api");
   Directory dir_bot_api = Directory(db_bot_api);
@@ -24,8 +27,8 @@ void main(List<String> arguments) async {
   telegramBotApiServer.run(
     executable: "./telegram_bot_api",
     arguments: telegramBotApiServer.optionsParameters(
-      apiid: "3945474",
-      apihash: "200e85971cc662a40385e0e60c7f7fac",
+      apiid: api_id,
+      apihash: api_hash,
       httpport: "9000",
       dir: dir_bot_api.path,
     ),
