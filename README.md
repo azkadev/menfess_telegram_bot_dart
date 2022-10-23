@@ -2,4 +2,4 @@
 
 Menfess telegram bot dart simple menggunakan bahasa code dart
 
-[Speed-Code](https://www.youtube.com/channel/UC928-F8HenjZD1zNdMY42vA)
+[Speed-Code](https://www.youtube.com/watch?v=2X4jmkFEnNQ)
