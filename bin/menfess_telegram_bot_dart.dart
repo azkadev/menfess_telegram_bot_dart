@@ -22,9 +22,9 @@ void main(List<String> arguments) async {
   telegramBotApiServer.run(
     executable: "./telegram_bot_api",
     arguments: telegramBotApiServer.optionsParameters(
-      apiid: api_id,
-      apihash: api_hash,
-      httpport: "9000",
+      api_id: api_id,
+      api_hash: api_hash,
+      http_port: "9000",
       dir: dir_bot_api.path,
     ),
   );
