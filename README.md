@@ -1,7 +1,10 @@
-# Menfess Telegram bot dart
+IyBNZW5mZXNzIFRlbGVncmFtIGJvdCBkYXJ0CgpNZW5mZXNzIHRlbGVncmFt
+IGJvdCBkYXJ0IHNpbXBsZSBtZW5nZ3VuYWthbiBiYWhhc2EgY29kZSBkYXJ0
+CgpbU3BlZWQtQ29kZV0oaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/
+dj0yWDRqbWtGRW5OUSkKClshW10oaHR0cHM6Ly9pbWcueW91dHViZS5jb20v
+dmkvMlg0am1rRkVuTlEvaHFkZWZhdWx0LmpwZyldKGh0dHBzOi8vd3d3Lnlv
+dXR1YmUuY29tL3dhdGNoP3Y9Mlg0am1rRkVuTlEp
 
-Menfess telegram bot dart simple menggunakan bahasa code dart
-
-[Speed-Code](https://www.youtube.com/watch?v=2X4jmkFEnNQ)
-
-[![](https://img.youtube.com/vi/2X4jmkFEnNQ/hqdefault.jpg)](https://www.youtube.com/watch?v=2X4jmkFEnNQ)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
